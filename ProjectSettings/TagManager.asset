@@ -6,6 +6,7 @@ TagManager:
   tags:
   - FWB
   - BWB
+  - Border
   layers:
   - Default
   - TransparentFX
